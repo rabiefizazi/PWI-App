@@ -1,4 +1,4 @@
-package com.elrancho.pwi;//^Testing Gitwerwr
+package com.elrancho.pwi;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
