@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2cd7c3ecfa91532d563a220a5aff458d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\650a99fb2b378bfac5e644bf1e02599c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f298bff24a58e600139ae1ba8028ee30\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9eb4af1ae4fd0824e84d81223edf2166\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\e593d22a12136e038609680eb46baf58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\95fd7a5462a7d31858278efc72f81cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\15bf1621dca165ebbef8e9216bcfcaf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\eef7de266d553d6298c7eed5774806eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\00be8334516b42817dfbb6dff6feb7da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\e141e4ebe222f1f2cb7b21ce57ce5885\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1517f2c08a707d726db1e04a5c31fe3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9dc267de8ac5de6e18a3e714d48e786a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1f57112f2b46580b3025c64bb3cd9464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\778e2d93fcebf62563b3afd90d048c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\228d6dadaba3f6e0dda382d16394be4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\047fa5c24bb7154d0b138a725e117e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\021e2b941fa944b1580b0e7afd0e3e10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\454948d5ef0a3d58761226ad99213e3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3427bbade88205d36e79c9b42a3f837a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac125173228b51238d3404fc6b8cb3fc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\633821c4488b96c2d02e142362539b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\642f775c29e1aa145713f9b252d9b745\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\603149ed6d5368230b55ff9f9f7876b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e4a286ddac792a06e72023859b9b8d38\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec2909542ea90a178ff57a065644e5ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c1cbe2efb3a0504307f9f064748f30fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\106b5f59a1de49cf6a640ee7dc2fcf0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\12506c27c518909acef8fd8a340da30e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7a7612764a4ae9486e8139077c094c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0eb4002b8b39c4af0e81b845ed72cd03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\42066d51de68a7bd4dbbf9a8feba7182\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.symbol.emdk.permission.EMDK
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:12:5-34:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2cd7c3ecfa91532d563a220a5aff458d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2cd7c3ecfa91532d563a220a5aff458d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f298bff24a58e600139ae1ba8028ee30\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f298bff24a58e600139ae1ba8028ee30\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3427bbade88205d36e79c9b42a3f837a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3427bbade88205d36e79c9b42a3f837a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac125173228b51238d3404fc6b8cb3fc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac125173228b51238d3404fc6b8cb3fc\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3427bbade88205d36e79c9b42a3f837a\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:16:9-40
+uses-library#com.symbol.emdk
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:17:23-53
+activity#com.elrancho.pwi.MainActivity
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:label
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.elrancho.pwi.LoginActivity
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:26:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2cd7c3ecfa91532d563a220a5aff458d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2cd7c3ecfa91532d563a220a5aff458d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\650a99fb2b378bfac5e644bf1e02599c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\650a99fb2b378bfac5e644bf1e02599c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f298bff24a58e600139ae1ba8028ee30\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f298bff24a58e600139ae1ba8028ee30\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9eb4af1ae4fd0824e84d81223edf2166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9eb4af1ae4fd0824e84d81223edf2166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\e593d22a12136e038609680eb46baf58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\e593d22a12136e038609680eb46baf58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\95fd7a5462a7d31858278efc72f81cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\95fd7a5462a7d31858278efc72f81cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\15bf1621dca165ebbef8e9216bcfcaf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\15bf1621dca165ebbef8e9216bcfcaf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\eef7de266d553d6298c7eed5774806eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\eef7de266d553d6298c7eed5774806eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\00be8334516b42817dfbb6dff6feb7da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\00be8334516b42817dfbb6dff6feb7da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\e141e4ebe222f1f2cb7b21ce57ce5885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\e141e4ebe222f1f2cb7b21ce57ce5885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1517f2c08a707d726db1e04a5c31fe3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1517f2c08a707d726db1e04a5c31fe3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9dc267de8ac5de6e18a3e714d48e786a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9dc267de8ac5de6e18a3e714d48e786a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1f57112f2b46580b3025c64bb3cd9464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1f57112f2b46580b3025c64bb3cd9464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\778e2d93fcebf62563b3afd90d048c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\778e2d93fcebf62563b3afd90d048c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\228d6dadaba3f6e0dda382d16394be4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\228d6dadaba3f6e0dda382d16394be4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\047fa5c24bb7154d0b138a725e117e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\047fa5c24bb7154d0b138a725e117e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\021e2b941fa944b1580b0e7afd0e3e10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\021e2b941fa944b1580b0e7afd0e3e10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\454948d5ef0a3d58761226ad99213e3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\454948d5ef0a3d58761226ad99213e3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3427bbade88205d36e79c9b42a3f837a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3427bbade88205d36e79c9b42a3f837a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac125173228b51238d3404fc6b8cb3fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac125173228b51238d3404fc6b8cb3fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\633821c4488b96c2d02e142362539b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\633821c4488b96c2d02e142362539b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\642f775c29e1aa145713f9b252d9b745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\642f775c29e1aa145713f9b252d9b745\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\603149ed6d5368230b55ff9f9f7876b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\603149ed6d5368230b55ff9f9f7876b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e4a286ddac792a06e72023859b9b8d38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e4a286ddac792a06e72023859b9b8d38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec2909542ea90a178ff57a065644e5ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec2909542ea90a178ff57a065644e5ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c1cbe2efb3a0504307f9f064748f30fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c1cbe2efb3a0504307f9f064748f30fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\106b5f59a1de49cf6a640ee7dc2fcf0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\106b5f59a1de49cf6a640ee7dc2fcf0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\12506c27c518909acef8fd8a340da30e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\12506c27c518909acef8fd8a340da30e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7a7612764a4ae9486e8139077c094c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7a7612764a4ae9486e8139077c094c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0eb4002b8b39c4af0e81b845ed72cd03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0eb4002b8b39c4af0e81b845ed72cd03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\42066d51de68a7bd4dbbf9a8feba7182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\42066d51de68a7bd4dbbf9a8feba7182\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rabie\AndroidStudioProjects\Perishables Weekly Inventory App\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\rabie\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\26db2b482e5110fd555360b4f646b319\AndroidManifest.xml:24:13-83
